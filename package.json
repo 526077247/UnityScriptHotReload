@@ -1,0 +1,6 @@
+{
+    "name": "com.misaka-mikoto-tech.unity-script-hot-reload",
+    "version": "0.0.1",
+    "displayName": "UnityScriptHotReload",
+    "description": "Unity package for UnityScriptHotReload."
+}
